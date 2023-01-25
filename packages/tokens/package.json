@@ -16,7 +16,6 @@
   "devDependencies": {
     "@art-ui/ts-config": "*",
     "@art-ui/eslint-config": "*",
-    "@art-ui/prettier-config": "*",
     "tsup": "^6.5.0",
     "typescript": "^4.9.4"
   }
