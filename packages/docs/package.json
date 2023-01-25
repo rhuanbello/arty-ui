@@ -25,6 +25,12 @@
     "vite": "^3.1.4"
   },
   "dependencies": {
+    "@art-ui/eslint-config": "*",
+    "@art-ui/prettier-config": "*",
+    "@art-ui/react": "*",
+    "@art-ui/tokens": "*",
+    "@art-ui/ts-config": "*",
+    "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
