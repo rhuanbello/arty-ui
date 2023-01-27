@@ -11,11 +11,11 @@ export const Text = styled("p", {
   variants: {
     size: {
       xxs: { fontSize: "$xxs" },
-      xs: { fontSize: "xs" },
-      sm: { fontSize: "sm" },
-      md: { fontSize: "md" },
-      lg: { fontSize: "lg" },
-      xl: { fontSize: "xl" },
+      xs: { fontSize: "$xs" },
+      sm: { fontSize: "$sm" },
+      md: { fontSize: "$md" },
+      lg: { fontSize: "$lg" },
+      xl: { fontSize: "$xl" },
       "2xl": { fontSize: "1.5rem" },
       "4xl": { fontSize: "2rem" },
       "5xl": { fontSize: "2.25rem" },
