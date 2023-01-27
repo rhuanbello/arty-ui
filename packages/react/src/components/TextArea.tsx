@@ -32,3 +32,5 @@ export const TextArea = styled("textarea", {
     color: "$primary400",
   },
 });
+
+TextArea.displayName = "TextArea";
