@@ -30,6 +30,7 @@
     "@art-ui/react": "*",
     "@art-ui/tokens": "*",
     "@art-ui/ts-config": "*",
+    "@storybook/addon-a11y": "^6.5.16",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
     "react": "^18.2.0",
