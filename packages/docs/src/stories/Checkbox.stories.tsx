@@ -1,4 +1,4 @@
-import { Box, Text, Checkbox, CheckboxProps } from "@art-ui/react";
+import { Box, Text, Checkbox, CheckboxProps } from "@arty-ui/react";
 import type { StoryObj, Meta } from "@storybook/react";
 
 export default {

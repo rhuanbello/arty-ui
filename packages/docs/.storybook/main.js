@@ -15,7 +15,7 @@ module.exports = {
   },
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/art-ui/'
+      config.base = '/arty-ui/'
     }
 
     return config;

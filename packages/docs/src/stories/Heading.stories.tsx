@@ -1,4 +1,4 @@
-import { Heading, HeadingProps } from "@art-ui/react";
+import { Heading, HeadingProps } from "@arty-ui/react";
 import type { StoryObj, Meta } from "@storybook/react";
 
 export default {

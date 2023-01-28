@@ -1,4 +1,4 @@
-import { colors } from "@art-ui/tokens";
+import { colors } from "@arty-ui/tokens";
 import { getContrast } from "polished";
 
 export const ColorsGrid = () => {

@@ -1,4 +1,4 @@
-import { Box, MultiStep, MultiStepProps } from "@art-ui/react";
+import { Box, MultiStep, MultiStepProps } from "@arty-ui/react";
 import type { StoryObj, Meta } from "@storybook/react";
 
 export default {

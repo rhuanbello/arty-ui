@@ -1,5 +1,5 @@
 {
-  "extends": "@art-ui/ts-config/base.json",
+  "extends": "@arty-ui/ts-config/base.json",
   "include": [
     "src"
   ]

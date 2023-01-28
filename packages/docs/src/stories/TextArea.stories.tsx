@@ -1,4 +1,4 @@
-import { Box, Text, TextArea, TextAreaProps } from "@art-ui/react";
+import { Box, Text, TextArea, TextAreaProps } from "@arty-ui/react";
 import type { StoryObj, Meta } from "@storybook/react";
 
 export default {

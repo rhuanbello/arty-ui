@@ -1,4 +1,4 @@
-import { Button, ButtonProps } from "@art-ui/react";
+import { Button, ButtonProps } from "@arty-ui/react";
 import type { StoryObj, Meta } from "@storybook/react";
 import { ArrowRight } from "phosphor-react";
 

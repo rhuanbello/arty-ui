@@ -1,3 +1,3 @@
 {
-  "extends": "@art-ui/prettier-config"
+  "extends": "@arty-ui/prettier-config"
 }
